@@ -3,3 +3,9 @@
 ################################################################################
 
 /Freewheels.App.Interfaces/bin/Debug/netcoreapp3.1
+/Freewheels.App.Interfaces/obj
+/Freewheels.App.Logic/bin/Debug/netcoreapp3.1
+/Freewheels.App.Logic/obj/Debug/netcoreapp3.1
+/Freewheels.App.Logic/obj
+/Freewheels.App.Model/bin/Debug/netcoreapp3.1
+/Freewheels.App.Model/obj
