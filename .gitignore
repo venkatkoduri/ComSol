@@ -9,3 +9,5 @@
 /Freewheels.App.Logic/obj
 /Freewheels.App.Model/bin/Debug/netcoreapp3.1
 /Freewheels.App.Model/obj
+/FreeWheels.Api/bin/Debug/netcoreapp3.1
+/FreeWheels.Api/obj

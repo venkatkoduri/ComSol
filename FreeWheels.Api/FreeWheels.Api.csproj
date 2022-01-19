@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Freewheels.App.Interfaces\Freewheels.App.Interfaces.csproj" />
+    <ProjectReference Include="..\Freewheels.App.Logic\Freewheels.App.Logic.csproj" />
+    <ProjectReference Include="..\Freewheels.App.Model\Freewheels.App.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DbScripts\" />
+  </ItemGroup>
+
+
+</Project>
